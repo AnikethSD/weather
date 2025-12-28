@@ -1,0 +1,7 @@
+xarray
+pandas
+numpy
+netCDF4
+cftime
+matplotlib
+folium

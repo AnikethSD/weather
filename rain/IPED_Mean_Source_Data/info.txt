@@ -1,0 +1,4 @@
+Folder that contains IPED Mean data year-wise files.
+example: IPED_mean_1991.nc
+
+Source data: https://zenodo.org/records/15618220
